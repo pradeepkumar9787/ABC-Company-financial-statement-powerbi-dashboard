@@ -127,7 +127,7 @@ MBA (Finance) | Power BI Developer | Financial Analyst
 ---
 
 # 📸 Dashboard Preview
-
+<img width="1440" height="810" alt="dashboard" src="https://github.com/user-attachments/assets/f66f71f4-a231-4e59-a8b2-6fcaceb0d1b6" />
 ## Executive Summary Dashboard
 
 https://github.com/pradeepkumar9787/ABC-Company-financial-statement-powerbi-dashboard/blob/main/dashboard.png
