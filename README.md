@@ -117,7 +117,35 @@ This project presents a professional Financial Statement Dashboard developed in 
 - Data Visualization
 
 ---
-
+financial-statement-powerbi-dashboard/
+│
+├── Dashboard/
+│   └── Financial Statement Dashboard.pbix
+│
+├── Dataset/
+│   ├── Income_Statement.csv
+│   ├── Balance_Sheet.csv
+│   ├── Cash_Flow.csv
+│   └── Calendar.csv
+│
+├── Images/
+│   ├── Executive Dashboard.png
+│   ├── Income Statement.png
+│   ├── Balance Sheet.png
+│   ├── Cash Flow.png
+│   └── Financial Ratios.png
+│
+├── DAX/
+│   ├── KPI Measures.md
+│   ├── Financial Ratios.md
+│   └── Time Intelligence.md
+│
+├── README.md
+│
+├── LICENSE
+│
+└── .gitignore
+---
 ## Author
 
 Pradeep Kumar K S
